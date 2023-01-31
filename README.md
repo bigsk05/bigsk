@@ -23,7 +23,7 @@
 
 ### Github Stats
 
-<img src="https://rp.ianxia.com/gh-stat?username=bigsk05&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Bigsk's GitHub stats" height="185px" /> <img src="https://rp.ianxia.com/gh-stat-toplang?layout=compact&langs_count=8&role=OWNER%2CORGANIZATION_MEMBER&username=bigsk05&theme=calm" alt="Bigsk's GitHub Top Langs" height="185px" />
+<img src="https://rp.ianxia.com/gh-stat?username=bigsk05&icon_color=0078e7&&include_all_commits=true" alt="Bigsk's GitHub stats" height="185px" /> <img src="https://rp.ianxia.com/gh-stat-toplang?layout=compact&langs_count=8&role=OWNER%2CORGANIZATION_MEMBER&username=bigsk05&title_color=0078e7" alt="Bigsk's GitHub Top Langs" height="185px" />
 
 ### What I'm doing
 
