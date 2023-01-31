@@ -11,7 +11,7 @@
 
 ### Quick Links
 
-[Homepage](https://www.ianxia.com) · [Blog (zh)](https://blog.ianxia.com) · [About](https://www.ianxia.com/en_US/about.html) ([zh](https://www.ianxia.com/zh_CN/about.html) / [en](https://www.ianxia.com/en_US/about.html))
+[Homepage](https://www.ianxia.com) · [Blog (zh)](https://blog.ianxia.com) · [About](https://www.ianxia.com/about.html)
 
 ### Donate Me
 
