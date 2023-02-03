@@ -1,6 +1,6 @@
 # Hi 👋 Bigsk here.
 
-### About
+### 🏃 About
 
 - 📝 Prefer GoLang / Python for the backend, Vue.JS for the frontend
 - 👨 Pronouns: He/His
@@ -9,23 +9,25 @@
 - 🌟 Let's idea fly
 - 💕 Open Source
 
-### Quick Links
+### 📌 Quick Links
 
 [Homepage](https://www.ianxia.com) · [Blog (zh)](https://blog.ianxia.com) · [About](https://www.ianxia.com/about.html)
 
-### Donate Me
+### 💰 Donate Me
 
 [Afdian](https://afdian.net/a/bigsk)
 
-### Skills
+### 🔨 Skills
+
+##### Most of them have only mastered the basics
 
 ![Skills](https://skillicons.dev/icons?i=androidstudio,arduino,au,blender,c,cs,cpp,cmake,css,discord,django,docker,dotnet,electron,express,express,flask,git,github,gitlab,go,grafana,gtk,html,idea,ai,instagram,js,jenkins,jquery,julia,kubernetes,linux,lua,matlab,nestjs,nextjs,nginx,nodejs,perl,ps,php,powershell,pr,py,pytorch,qt,r,raspberrypi,redis,ruby,rust,sass,sqlite,stackoverflow,svg,swift,tauri,tensorflow,twitter,ts,unity,unreal,vercel,vim,visualstudio,vite,vscode,vue,wasm,wordpress,workers)
 
-### Github Stats
+### 📈 Stats
 
 <img src="https://rp.ianxia.com/gh-stat?username=bigsk05&icon_color=0078e7&&include_all_commits=true" alt="Bigsk's GitHub stats" height="185px" /> <img src="https://rp.ianxia.com/gh-stat-toplang?layout=compact&langs_count=8&role=OWNER%2CORGANIZATION_MEMBER&username=bigsk05&title_color=0078e7" alt="Bigsk's GitHub Top Langs" height="185px" />
 
-### What I'm doing
+### 📜 What I'm doing
 
 - [ ] ClassToolsTauri
 - [ ] Ghink Passport V4 (Private)
