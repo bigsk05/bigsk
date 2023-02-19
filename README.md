@@ -56,3 +56,4 @@
 - [ ] FastMirror - Sync
 - [ ] FastMirror - Frontend
 - [ ] Seminol Game Server Panel
+- [ ] Nimble Server
