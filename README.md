@@ -1,6 +1,14 @@
 # Hi 👋 Bigsk here.
 
-### 🏃 About
+### 😜 Who I am
+
+- 🎒 Student
+- 🐺 Furry
+- 👨‍💻 Full Stack Developer
+- 📻 Amateur Radio Ham (Enthusiast)
+- 👨‍💼 Originator of Ghink Universe Technology
+
+### 🏃 Personality
 
 - 📝 Prefer GoLang / Python for the backend, Vue.JS for the frontend
 - 👨 Pronouns: He/His
