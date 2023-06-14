@@ -37,31 +37,25 @@
 
 ### 📜 What I'm doing
 
-- [ ] ClassToolsTauri
 - [ ] Ghink Passport V4 (Private)
 - [ ] OhMyMail
 - [ ] InfiniteMusic
 - [ ] Gaussian Platform Website (Private)
-- [ ] Eculid Lab Website (Private)
+- [ ] Lovelace Lab Website (Private)
 - [ ] ItLink IoT Website (Private)
 - [ ] Ghink Pocket (Private)
-- [ ] Arxive Paper (Private)
 - [ ] OpenAvatar Backend (Private)
 - [ ] OpenAvatar Fronted (Private)
-- [ ] ARCQ Repeaters' Online List (Private)
-- [ ] ARCQ Station Log System (Private)
-- [ ] ARCQ Online Exam System (Private)
-- [ ] ARCQ Forum (Private)
-- [ ] Seminol Launcher for Minecraft
+- [ ] HiCQ Repeaters' Online List (Private)
+- [ ] HiCQ Station Log System (Private)
+- [ ] HiCQ Online Exam System (Private)
+- [ ] HiCQ Forum (Private)
+- [ ] Overva Minecraft Launcher
 - [ ] Automatic Aircraft Photographic System
 - [ ] Class Monitor
 - [ ] Biometric Voting System
 - [ ] GoPy Project
 - [ ] Voice Intercom
 - [ ] OhMail Website (Private)
-- [ ] Home Server Assistant
-- [ ] FastMirror - Core
-- [ ] FastMirror - Sync
-- [ ] FastMirror - Frontend
-- [ ] Seminol Game Server Panel
+- [ ] Overva Game Server Panel
 - [ ] Nimble Server
