@@ -6,7 +6,7 @@
 - 🐺 Furry
 - 👨‍💻 Full Stack Developer
 - 📻 Amateur Radio Ham (Enthusiast)
-- 👨‍💼 Originator of Ghink Universe Technology
+- 👨‍💼 Originator of Ghink Universe (Shanghai) Network Technology Co.,Ltd
 
 ### 🏃 Personality
 
