@@ -6,7 +6,9 @@
 - 🐺 Furry
 - 👨‍💻 Full Stack Developer
 - 📻 Amateur Radio Ham (Enthusiast)
-- 👨‍💼 Originator of Ghink Universe (Shanghai) Network Technology Co.,Ltd
+- 📸 Photography enthusiasts
+- ✈ Aviation enthusiasts
+- 🍎 Apple Fans
 
 ### 🏃 Personality
 
@@ -14,7 +16,6 @@
 - 👨 Pronouns: He/His
 - 🏳️‍🌈 Sexuality: Gay
 - 💻 Orientation: Computer Science
-- 🌟 Let's idea fly
 - 💕 Open Source
 
 ### 📌 Quick Links
