@@ -30,7 +30,7 @@
 
 ##### Most of them have only mastered the basics
 
-![Skills](https://skillicons.dev/icons?i=arduino,au,c,cs,cpp,css,docker,flask,git,github,gohtml,idea,ai,js,jenkins,jquery,linux,lua,nginx,nodejs,ps,php,powershell,pr,py,pytorch,raspberrypi,rust,sqlite,stackoverflow,svg,tauri,tensorflow,ts,vercel,vim,visualstudio,vite,vscode,vue)
+![Skills](https://skillicons.dev/icons?i=arduino,au,c,cs,cpp,css,docker,flask,git,github,go,html,idea,ai,js,jenkins,jquery,linux,lua,nginx,nodejs,ps,php,powershell,pr,py,pytorch,raspberrypi,rust,sqlite,stackoverflow,svg,tauri,tensorflow,ts,vercel,vim,visualstudio,vite,vscode,vue)
 
 ### 📜 What I'm doing
 
