@@ -30,29 +30,18 @@
 
 ##### Most of them have only mastered the basics
 
-![Skills](https://skillicons.dev/icons?i=androidstudio,arduino,au,blender,c,cs,cpp,cmake,css,discord,django,docker,dotnet,electron,express,express,flask,git,github,gitlab,go,grafana,gtk,html,idea,ai,instagram,js,jenkins,jquery,julia,kubernetes,linux,lua,matlab,nestjs,nextjs,nginx,nodejs,perl,ps,php,powershell,pr,py,pytorch,qt,r,raspberrypi,redis,ruby,rust,sass,sqlite,stackoverflow,svg,swift,tauri,tensorflow,twitter,ts,unity,unreal,vercel,vim,visualstudio,vite,vscode,vue,wasm,wordpress,workers)
+![Skills](https://skillicons.dev/icons?i=arduino,au,c,cs,cpp,css,docker,flask,git,github,gohtml,idea,ai,js,jenkins,jquery,linux,lua,nginx,nodejs,ps,php,powershell,pr,py,pytorch,raspberrypi,rust,sqlite,stackoverflow,svg,tauri,tensorflow,ts,vercel,vim,visualstudio,vite,vscode,vue)
 
 ### 📜 What I'm doing
 
 - [ ] Ghink Passport V4 (Private)
 - [ ] OhMyMail
 - [ ] InfiniteMusic
-- [ ] Gaussian Platform Website (Private)
-- [ ] Lovelace Lab Website (Private)
-- [ ] ItLink IoT Website (Private)
-- [ ] Ghink Pocket (Private)
-- [ ] OpenAvatar Backend (Private)
-- [ ] OpenAvatar Fronted (Private)
+- [ ] Evatar Backend (Private)
+- [ ] Evatar Fronted (Private)
 - [ ] HiCQ Repeaters' Online List (Private)
 - [ ] HiCQ Station Log System (Private)
 - [ ] HiCQ Online Exam System (Private)
 - [ ] HiCQ Forum (Private)
 - [ ] Overva Minecraft Launcher
-- [ ] Automatic Aircraft Photographic System
-- [ ] Class Monitor
-- [ ] Biometric Voting System
-- [ ] GoPy Project
-- [ ] Voice Intercom
-- [ ] OhMail Website (Private)
 - [ ] Overva Game Server Panel
-- [ ] Nimble Server
