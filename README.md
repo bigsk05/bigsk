@@ -24,7 +24,7 @@
 
 ### 💰 Donate Me
 
-[Afdian](https://afdian.net/a/bigsk)
+[Afdian](https://afdian.com/a/bigsk)
 
 ### 🔨 Skills
 
