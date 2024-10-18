@@ -24,7 +24,7 @@
 
 ### 💰 Donate Me
 
-[Afdian](https://afdian.com/a/bigsk)
+[Afdian (Chinese Mainland)](https://afdian.com/a/bigsk) · [Ko-fi (International)](https://ko-fi.com/bigsk)
 
 ### 🔨 Skills
 
